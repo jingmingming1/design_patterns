@@ -13,7 +13,7 @@ import com.jmm.design.design02.factory.SmsSender;
  *
  * 第三种相对于第二种，不需要实例化工厂类，所以，大多数情况下，我们会选用第三种——静态工厂方法模式。
  */
-public class SendFactory {
+public class SendFactory3 {
 
     public static Sender produceMail(){
         return new MailSender();
