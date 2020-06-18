@@ -1,7 +1,7 @@
 package com.jmm.design.design04.bridge;
 
 /**
- * 吃鸡肉面
+ * 吃面
  */
 public abstract class C3_1_Noodles {
 
