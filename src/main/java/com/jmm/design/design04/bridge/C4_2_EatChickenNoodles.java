@@ -6,6 +6,4 @@ public class C4_2_EatChickenNoodles extends C3_1_Noodles{
     public void getNoodles() {
         System.out.println("点份[鸡肉面] "+seasoning.addSeasoning());
     }
-
-
 }
