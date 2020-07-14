@@ -34,5 +34,4 @@ public class A2_Breakfask {
     public Iterator createIterator() {
         return new A3_Breakfast_Iterator(menuItems);
     }
-
 }
