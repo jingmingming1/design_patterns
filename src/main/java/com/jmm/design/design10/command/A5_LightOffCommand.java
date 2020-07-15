@@ -24,5 +24,4 @@ public class A5_LightOffCommand implements A2_Command {
     public void undo() {
         light.on();
     }
-
 }
