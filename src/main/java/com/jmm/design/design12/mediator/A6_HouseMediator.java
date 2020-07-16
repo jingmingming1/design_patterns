@@ -1,7 +1,5 @@
 package com.jmm.design.design12.mediator;
 
-import java.io.Console;
-
 /**
  * 房屋中介
  */
