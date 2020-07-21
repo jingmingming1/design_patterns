@@ -14,5 +14,4 @@ public abstract class C1_SymbolExpression extends A1_Expression {
         this.left = left;
         this.right = right;
     }
-
 }

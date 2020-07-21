@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Stack;
 
 /**
- * 对输入的表达式进行解析，并计算
+ * Context——环境角色 对输入的表达式进行解析，并计算
  */
 public class D1_Context {
 

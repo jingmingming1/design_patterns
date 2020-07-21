@@ -3,7 +3,7 @@ package com.jmm.design.design15.interpreter;
 import java.util.HashMap;
 
 /**
- * 减法解析器
+ * [非终结符表达式] 减法解析器
  * interpreter方法处理减法运算
  */
 public class C3_SubExpression extends C1_SymbolExpression{
