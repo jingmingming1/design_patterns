@@ -19,6 +19,6 @@ public class E1_Client {
         // 先解析运算表达式
         context.analyse(expStr);
         // 进行运算
-        System.out.println(context.run(var));
+        System.out.println(expStr+"="+context.run(var));
     }
 }
