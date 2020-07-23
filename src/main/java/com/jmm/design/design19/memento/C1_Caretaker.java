@@ -27,5 +27,4 @@ public class C1_Caretaker {
     public A1_Memento getStateByMemento(int index){
         return mementoList.get(index);
     }
-
 }
