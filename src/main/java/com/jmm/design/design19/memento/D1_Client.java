@@ -29,6 +29,5 @@ public class D1_Client {
         System.out.println("曾经状态：那天"+persion.getState());
         persion.setState(mamager.getStateByMemento(2).getState());
         System.out.println("曾经状态：那天"+persion.getState());
-
     }
 }
